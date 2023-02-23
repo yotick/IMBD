@@ -5,7 +5,7 @@ For reduced scale experiments (simulation), please run *_RS.m, for full scale (r
 
 If you wish to cite this paper, please refer to:
 
-@article{LU2023109434,
+    @article{LU2023109434,
     title = {Intensity mixture and band-adaptive detail fusion for pansharpening},
     volume = {139},
     issn = {0031-3203},
